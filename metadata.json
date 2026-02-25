@@ -1,0 +1,5 @@
+{
+  "name": "OmniMind AI",
+  "description": "A powerful multi-modal AI assistant featuring Google Search, Maps grounding, image analysis, audio transcription, and high-level reasoning.",
+  "requestFramePermissions": ["microphone", "geolocation"]
+}
